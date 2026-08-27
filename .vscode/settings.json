@@ -1,4 +1,7 @@
 {
+  "chat.disableAIFeatures": false,
+  "chat.agent.enabled": false,
+
   "github.copilot.enable": {
     "*": false,
     "java": false,
@@ -6,5 +9,6 @@
     "markdown": false,
     "scminput": false
   },
+
   "github.copilot.nextEditSuggestions.enabled": false
 }
