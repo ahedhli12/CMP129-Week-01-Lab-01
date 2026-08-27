@@ -4,7 +4,6 @@
     },
     "github.copilot.nextEditSuggestions.enabled": false,
     "editor.inlineSuggest.enabled": false,
-    "chat.agent.enabled": false,
     "editor.quickSuggestions": {
         "other": "on",
         "comments": "off",
