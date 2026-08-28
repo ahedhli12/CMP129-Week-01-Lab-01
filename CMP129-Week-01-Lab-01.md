@@ -105,8 +105,8 @@ Submission
 
 Submit or push the following files to your Week 1 GitHub repository:
 
-src/BoxOffice.java
-src/InterestEarned.java
+BoxOffice.java
+InterestEarned.java
 AI-Use-Report.md
 
 Make at least two meaningful commits while completing the lab. Use clear commit messages describing your progress.
